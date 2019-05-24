@@ -1,7 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59bd1f70-fed1-4c59-9616-a1c1c7344383" name="Default Changelist" comment="" />
+    <list default="true" id="59bd1f70-fed1-4c59-9616-a1c1c7344383" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/frobshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/27/eb/27ebdb74406f30a0d7f7e0a091dc0747.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/2d/22/2d22adf5cfd9c9393b14c298a052bf71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/3b/87/3b87efa503d77c7438aaac8b675a3d8a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/48/2a/482a6ac94bb9ad2d21a682edc824e23b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/59/b8/59b8e15f0d6d2b79a03f08e2ef314618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/5f/bb/5fbb9ed92d01bceabf449627366e4838.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/76/b6/76b60b062a46120110f8b314aa4ac05e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/87/39/873995d4339bd26ee95bdcc11d4b0978.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/89/48/8948d54c2a8a40a9ece11446b2d6c5f9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/8f/c3/8fc30ce776ff130bec9e498472f0c3cc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/93/53/9353bc0b0fe1b94b415b3eb6e69e019a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/aa/d6/aad6d7c078a4488e5ea0949e3593163b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/ad/b1/adb1887bec0671619a1c14bcf422283d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/b9/aa/b9aa9a63009fbc7e98e73217b94aef91.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/c9/41/c941086de6aa5c164b2e3b547472f9e3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/e1/4d/e14dd43a5b910f56520cae43eab3d01e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/e1/4d/e14dd43a5b910f56520cae43eab3d01e_CBSNTvB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/e6/90/e690736ce47b7cce8486750d12435dae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/fc/47/fc47557c1fad683d9ae64d049feb2e05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogue/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogue/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogue/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogue/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogue/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogue/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogue/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/357582750.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/27/eb/27ebdb74406f30a0d7f7e0a091dc0747.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/2d/22/2d22adf5cfd9c9393b14c298a052bf71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/3b/87/3b87efa503d77c7438aaac8b675a3d8a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/48/2a/482a6ac94bb9ad2d21a682edc824e23b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/59/b8/59b8e15f0d6d2b79a03f08e2ef314618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/5f/bb/5fbb9ed92d01bceabf449627366e4838.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/76/b6/76b60b062a46120110f8b314aa4ac05e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/87/39/873995d4339bd26ee95bdcc11d4b0978.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/89/48/8948d54c2a8a40a9ece11446b2d6c5f9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/8f/c3/8fc30ce776ff130bec9e498472f0c3cc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/93/53/9353bc0b0fe1b94b415b3eb6e69e019a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/aa/d6/aad6d7c078a4488e5ea0949e3593163b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/ad/b1/adb1887bec0671619a1c14bcf422283d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/b9/aa/b9aa9a63009fbc7e98e73217b94aef91.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/c9/41/c941086de6aa5c164b2e3b547472f9e3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/e1/4d/e14dd43a5b910f56520cae43eab3d01e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/e1/4d/e14dd43a5b910f56520cae43eab3d01e_CBSNTvB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/e6/90/e690736ce47b7cce8486750d12435dae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/cache/fc/47/fc47557c1fad683d9ae64d049feb2e05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/03/37/03377bac8ffe4d5331454fc2421d036a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/04/ff/04ffdb8b8a67f52f50befb3d54627e36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/06/20/06204e1858bc0c915d1b52773cdced68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/0b/eb/0beb58654e9e4f236d778924e88deb5a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/56/23/5623c56af876d1941f386ac3bd0cf6f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/56/9b/569b9540f17582126f83ee43fc01b189.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/5a/e1/5ae1611784da7da073ed91944b90382b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/72/fc/72fc8f959bc28459b37b20c04994231a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/73/c9/73c9187add2591de13bc3917728344a7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/88/8e/888e3be2cd78ab21ecf36eaf78624edc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/8b/08/8b084b878d9689288e48cf5a34ff9c30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/94/f1/94f1ebb1eb76157d9b39bd13c1341056.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/9e/24/9e242a26986c219f5531742789810020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/a8/a6/a8a651935848de5f03664df49bddb11e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/b6/ef/b6ef4802707a0a54edb39eea10033be8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/c3/69/c36929894c0d1acb0d624ccd3cd9c9e9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/cache/cc/bb/ccbbe0b2cacf23f385bf064e986a46fc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/image_not_found.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/images/products/2019/05/adventure-boulders-daylight-1529746.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/images/products/2019/05/bright-close-up-color-207231.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/images/products/2019/05/cliff-clouds-daylight-1337984.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/media/images/products/2019/05/v71NaV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frobshop/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/6826881-hi-res-wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/6826881-hi-res-wallpaper_RuCLqb8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/8448375-green-leaf-background-with-raindrops.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/Screenshot_from_2019-05-23_19-45-26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/Ubuntu-Wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/adventure-boulders-daylight-1529746.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/adventure-boulders-daylight-1529746_twDRs3J.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/asia-asian-background-730423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/asphalt-bridge-curve-1174135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/asphalt-bridge-curve-1174135_IwzL0C9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/webwxgetmsgimg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/webwxgetmsgimg_PCGEP4U.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/products/2019/05/webwxgetmsgimg_yR52MD6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/6826881-hi-res-wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/6826881-hi-res-wallpaper_RuCLqb8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/8448375-green-leaf-background-with-raindrops.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/Screenshot_from_2019-05-23_19-45-26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/Ubuntu-Wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/adventure-boulders-daylight-1529746.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/adventure-boulders-daylight-1529746_twDRs3J.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/asia-asian-background-730423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/asphalt-bridge-curve-1174135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/asphalt-bridge-curve-1174135_IwzL0C9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/webwxgetmsgimg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/webwxgetmsgimg_PCGEP4U.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/products/2019/05/webwxgetmsgimg_yR52MD6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melalalens/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melalalens/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melalalens/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melalalens/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melalalens/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melalalens/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melalalens/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products_images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products_images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products_images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products_images/Screenshot from 2019-05-23 19-45-26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products_images/sum.jpg" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +137,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frobshop/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="158" column="30" selection-start-line="158" selection-start-column="30" selection-end-line="158" selection-end-column="30" />
+            <state relative-caret-position="355">
+              <caret line="148" column="40" lean-forward="true" selection-start-line="148" selection-start-column="40" selection-end-line="148" selection-end-column="40" />
               <folding>
                 <element signature="e#309#318#0" expanded="true" />
               </folding>
@@ -35,7 +159,7 @@
         <entry file="file://$PROJECT_DIR$/catalogue/apps.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -44,7 +168,7 @@
         <entry file="file://$PROJECT_DIR$/frobshop/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#632#664#0" expanded="true" />
               </folding>
@@ -53,6 +177,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +198,7 @@
     <option name="width" value="1813" />
     <option name="height" value="810" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -87,11 +215,6 @@
             <path>
               <item name="frobshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="frobshop" type="462c0819:PsiDirectoryNode" />
-              <item name="catalogue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="frobshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frobshop" type="462c0819:PsiDirectoryNode" />
               <item name="frobshop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -101,6 +224,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -131,7 +255,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
@@ -173,14 +296,14 @@
     <entry file="file://$PROJECT_DIR$/catalogue/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frobshop/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#632#664#0" expanded="true" />
           </folding>
@@ -189,8 +312,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frobshop/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="158" column="30" selection-start-line="158" selection-start-column="30" selection-end-line="158" selection-end-column="30" />
+        <state relative-caret-position="355">
+          <caret line="148" column="40" lean-forward="true" selection-start-line="148" selection-start-column="40" selection-end-line="148" selection-end-column="40" />
           <folding>
             <element signature="e#309#318#0" expanded="true" />
           </folding>
